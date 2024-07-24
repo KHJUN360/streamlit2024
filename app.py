@@ -1,4 +1,3 @@
 import streamlit as st
 
-st.write('Hello, *World!* :sunglasses:')
-st.markdown('**김현준**')
+st.header('주사위 게임', divider='rainbow')
